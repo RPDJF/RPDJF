@@ -50,7 +50,7 @@
   <strong>Où me trouver</strong>
 </h2>
 <p>
-  Discord : <a href="https://discordapp.com/users/Banatawa">Banatawa</a>
-  Twitter : <a href="https://twitter.com/RuiLeVraiLeBeau">@RuiLeVraiLeBeau</a>
-  LinkedIn : <a href="https://ch.linkedin.com/in/rui-paulo-de-jesus-ferreira-813abb218">Rui Paulo de Jesus Ferreira</a>
+  Discord : <a href="https://discordapp.com/users/Banatawa">Banatawa</a><br>
+  Twitter : <a href="https://twitter.com/RuiLeVraiLeBeau">@RuiLeVraiLeBeau</a><br>
+  LinkedIn : <a href="https://ch.linkedin.com/in/rui-paulo-de-jesus-ferreira-813abb218">Rui Paulo de Jesus Ferreira</a><br>
 </p>
