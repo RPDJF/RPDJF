@@ -1,4 +1,4 @@
-![Photo de profil](https://your-profile-image-url-here)
+![Photo de profil](https://avatars.githubusercontent.com/u/86334233?v=4)
 
 # **Rui Paulo de Jesus Ferreira**
 
