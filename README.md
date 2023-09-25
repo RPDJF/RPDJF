@@ -1,15 +1,13 @@
 <!-- Entête du profil -->
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/86334233?v=4" alt="Photo de profil" width="200" height="200">
 </p>
 
 <!-- Titre -->
-<h1 align="center">
-  <strong>RPDJF</strong>
-</h1>
+<h1><strong>RPDJF</strong></h1>
 
 <!-- Badges -->
-<p align="center">
+<p>
   <a href="https://github.com/RPDJF">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RPDJF?style=social&color=green">
   </a>
@@ -19,7 +17,7 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">
+<p>
   <em>🎮 Passionné de jeux vidéo et de manga anime 🍙</em><br>
   <em>📚 Étudiant à <a href="https://www.42lausanne.ch/">École 42 Lausanne</a></em><br>
   <em>🔭 Actuellement, je travaille sur <a href="https://github.com/RPDJF/discord-ruisbot">discord-ruisbot</a></em><br>
@@ -52,7 +50,7 @@
   <strong>Où me trouver</strong>
 </h2>
 <p>
-  Discord : [Banatawa](https://discordapp.com/users/YourDiscordID)<br>
+  Discord : [Banatawa](https://discordapp.com/users/Banatawa)<br>
   Twitter : [@RuiLeVraiLeBeau](https://twitter.com/RuiLeVraiLeBeau)<br>
   LinkedIn : [Rui Paulo de Jesus Ferreira](https://ch.linkedin.com/in/rui-paulo-de-jesus-ferreira-813abb218)
 </p>
