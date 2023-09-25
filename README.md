@@ -1,6 +1,6 @@
 <!-- Entête du profil -->
 <p align="center">
-  <img src="[https://your-profile-image-url-here](https://avatars.githubusercontent.com/u/86334233?v=4)" alt="Photo de profil" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/86334233?v=4" alt="Photo de profil" width="200" height="200">
 </p>
 
 <!-- Titre -->
