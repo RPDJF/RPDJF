@@ -26,7 +26,7 @@
   <em>🤔 J'apprécierais toute aide concernant le développement</em><br>
   <em>💬 Vous pouvez me poser des questions sur la programmation, les réseaux, ou toute autre chose !</em><br>
   <em>😄 Pronoms : Il/Lui</em><br>
-  <em>⚡ Fun fact : J'ai créé un jeu mobile, [Flappy Virus 2023](https://play.google.com/store/apps/details?id=ch.ruinformatique.fv23), disponible sur le Play Store.</em>
+  <em>⚡ Fun fact : J'ai créé un jeu mobile, <a href="https://play.google.com/store/apps/details?id=ch.ruinformatique.fv23">Flappy Virus 2023</a>, disponible sur le Play Store.</em>
 </p>
 
 <!-- À propos de moi -->
