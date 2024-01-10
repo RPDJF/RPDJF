@@ -3,7 +3,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ruilevrailebeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruilevrailebeau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rui-paulo-de-jesus-ferreira-813abb218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rui-paulo-de-jesus-ferreira-813abb218" height="30" width="40" /></a>
 <a href="https://discord.gg/sG5UNgH4hR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sG5UNgH4hR" height="30" width="40" /></a>
 </p>
