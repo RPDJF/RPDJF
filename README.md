@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RPDJF</h1>
-<h3 align="center">A 21yo passionate student developer from Switzerland 🇨🇭</h3>
+<h3 align="center">A 22yo passionate student developer from Switzerland 🇨🇭</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
